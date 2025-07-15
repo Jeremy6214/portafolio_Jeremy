@@ -1,3 +1,4 @@
+
 .tags {
     display: flex;
     flex-wrap: wrap;
@@ -47,7 +48,6 @@
     box-shadow: 0 0 20px #1c92d2, inset 0 0 10px rgba(255,255,255,0.2);
 }
 
-/* Clase interna para el icono dentro del span */
 .tags .icon {
     margin-right: 8px;
     font-size: 1.1em;
